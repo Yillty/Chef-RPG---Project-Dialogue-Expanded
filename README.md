@@ -19,6 +19,11 @@ the next version.
 That said, the game in it's currently state only supports up to 10 lines of dialogue for relationship level. So I intend to tinker with
 the game modules to find a way to increase this limit in the medium-term.  
 
+# Compile
+
+Although the source code is available, I wouldn't recommend the compilation from it if you don't know what you're doing. That said,
+if you want to compile the mod from the source code, you just need to follow the BepInEx documentation found in this link: https://docs.bepinex.dev/articles/dev_guide/plugin_tutorial/2_plugin_start.html 
+
 # Install
 
 This mod needs the following dependencies to work:
