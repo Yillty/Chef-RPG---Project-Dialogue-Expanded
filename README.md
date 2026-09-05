@@ -1,7 +1,9 @@
 # Description
-Uriel Dialogue Expanded is, as the name suggests, a mod for the game Chef RPG that adds lines of dialogue for the character Uriel. 
+Project Dialogue Expanded is, as the name suggests, a mod for the game Chef RPG that adds lines of dialogue for the main characters in game.
 
-The mod works by injecting 35 new lines to the base game through the patching of the methods related to translation 
+**Currently** the game adds lines for **Uriel** and **Alloys**
+
+The mod works by injecting 71 new lines to the base game through the patching of the methods related to translation 
 and new relationship level chains of decisions, to allow the inclusion of dialogues with player input. It currently
 supports the build *25090380* (Tidehaven update). This way, it should be compatible with any other mod that doesn't change
 lines of dialogue.
@@ -12,9 +14,9 @@ This usage, however, didn't extend to any of the dialogue added to the game.
 
 # Future projects:
 I built the patches in a way that makes possible to future add-ons to other NPCs dialogue pool. So I should be able to release new 
-versions of this mod for other characters in the near future, although this is a side project and I don't commit to a timeline. Also, 
+versions of this mod for other characters in the near future, although this is a side project and I don't commit to a timeline. ~~Also, 
 you may notice the new lines won't be accompanied by portrait emotions. This is a known issue, and it's my top priority to fix it in 
-the next version. 
+the next version.~~ (fixed)
 
 That said, the game in it's currently state only supports up to 10 lines of dialogue for relationship level. So I intend to tinker with
 the game modules to find a way to increase this limit in the medium-term.  
