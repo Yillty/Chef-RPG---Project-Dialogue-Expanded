@@ -1,9 +1,9 @@
 # Description
 Project Dialogue Expanded is, as the name suggests, a mod for the game Chef RPG that adds lines of dialogue for the main characters in game.
 
-**Currently** the game adds lines for **Uriel** and **Alloys**
+**Currently** the game adds lines for **Uriel**, **Alloys** and **Nacim**.
 
-The mod works by injecting 71 new lines to the base game through the patching of the methods related to translation 
+The mod works by injecting 129 new lines to the base game through the patching of the methods related to translation 
 and new relationship level chains of decisions, to allow the inclusion of dialogues with player input. It currently
 supports the build *25090380* (Tidehaven update). This way, it should be compatible with any other mod that doesn't change
 lines of dialogue.
